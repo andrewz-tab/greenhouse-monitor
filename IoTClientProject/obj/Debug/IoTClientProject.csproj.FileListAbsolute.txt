@@ -1,0 +1,150 @@
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\IoTClientProject.exe.config
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\IoTClientProject.exe
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\IoTClientProject.pdb
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\M2Mqtt.Net.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.Authorization.resources
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.Properties.Resources.resources
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.csproj.GenerateResource.cache
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.csproj.CopyComplete
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.exe
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.pdb
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.Scoreboard.resources
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.ConfigForm.resources
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\yav-CM\IoTClientProject.resources.dll
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.ConfigForm.yav-CM.resources
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\yav-CM\IoTClientProject.resources.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.csproj.AssemblyReference.cache
+C:\Users\andrew\source\repos\IoTClientProject\obj\Debug\IoTClientProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Buffers.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Memory.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Text.Json.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.ValueTuple.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Buffers.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Memory.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Text.Json.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.ValueTuple.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Telegram.Bot.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Telegram.Bot.pdb
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Telegram.Bot.xml
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\Users\andrew\source\repos\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\IoTClientProject.exe.config
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\IoTClientProject.exe
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\IoTClientProject.pdb
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\yav-CM\IoTClientProject.resources.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Buffers.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Memory.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Text.Json.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Telegram.Bot.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Buffers.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Memory.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Text.Json.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\System.ValueTuple.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Telegram.Bot.pdb
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Telegram.Bot.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.xml
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.Authorization.resources
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.ConfigForm.resources
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.Properties.Resources.resources
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.Scoreboard.resources
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.ConfigForm.yav-CM.resources
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.csproj.GenerateResource.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\yav-CM\IoTClientProject.resources.dll
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.csproj.CopyComplete
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.exe
+C:\Users\Кирилл\OneDrive\Рабочий стол\IoTClientProject\IoTClientProject\obj\Debug\IoTClientProject.pdb
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\IoTClientProject.exe.config
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\IoTClientProject.exe
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\IoTClientProject.pdb
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\yav-CM\IoTClientProject.resources.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\M2Mqtt.Net.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Buffers.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Memory.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Text.Json.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.ValueTuple.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Telegram.Bot.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Buffers.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Memory.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Text.Json.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\System.ValueTuple.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Telegram.Bot.pdb
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Telegram.Bot.xml
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\Users\andrew\Desktop\IoTClientProject\bin\Debug\Telegram.Bot.Extensions.Polling.xml
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.csproj.AssemblyReference.cache
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.Authorization.resources
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.ConfigForm.resources
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.Properties.Resources.resources
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.Scoreboard.resources
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.ConfigForm.yav-CM.resources
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.csproj.GenerateResource.cache
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.csproj.CoreCompileInputs.cache
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\yav-CM\IoTClientProject.resources.dll
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.csproj.CopyComplete
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.exe
+C:\Users\andrew\Desktop\IoTClientProject\obj\Debug\IoTClientProject.pdb

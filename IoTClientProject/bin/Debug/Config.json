@@ -1,0 +1,11 @@
+{
+  "Devices": "1 5 3 4 2",
+  "AmountDevice": 5,
+  "maxLux": 50000,
+  "maxHumidity": 80,
+  "maxTemperature": 34,
+  "minLux": 200,
+  "minHumidity": 30,
+  "minTemperature": 1,
+  "isMonitoring": true
+}
