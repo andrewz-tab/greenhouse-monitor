@@ -1,0 +1,219 @@
+[
+    {
+        "module": "BME280/BME280.o",
+        "size": {
+            ".text": 734,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/c_w.l",
+        "size": {
+            ".text": 17081,
+            ".data": 16,
+            ".bss": 348,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/fz_ws.l",
+        "size": {
+            ".text": 2304,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/libcpp_w.l",
+        "size": {
+            ".text": 1,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/libcppabi_w.l",
+        "size": {
+            ".text": 44,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/m_ws.l",
+        "size": {
+            ".text": 500,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "anon$$obj.o",
+        "size": {
+            ".text": 32,
+            ".data": 0,
+            ".bss": 1024,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "main.o",
+        "size": {
+            ".text": 2055,
+            ".data": 0,
+            ".bss": 80,
+            ".text-delta": -9,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-mqtt/paho_mqtt_embedded_c",
+        "size": {
+            ".text": 1900,
+            ".data": 0,
+            ".bss": 4,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-mqtt/src",
+        "size": {
+            ".text": 2852,
+            ".data": 0,
+            ".bss": 44,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/components",
+        "size": {
+            ".text": 16833,
+            ".data": 0,
+            ".bss": 1580,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/drivers",
+        "size": {
+            ".text": 5293,
+            ".data": 0,
+            ".bss": 44,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/events",
+        "size": {
+            ".text": 2186,
+            ".data": 0,
+            ".bss": 3108,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/features",
+        "size": {
+            ".text": 13557,
+            ".data": 99,
+            ".bss": 141,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/hal",
+        "size": {
+            ".text": 1956,
+            ".data": 4,
+            ".bss": 66,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/platform",
+        "size": {
+            ".text": 8102,
+            ".data": 64,
+            ".bss": 344,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/rtos",
+        "size": {
+            ".text": 14207,
+            ".data": 168,
+            ".bss": 6762,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/targets",
+        "size": {
+            ".text": 13447,
+            ".data": 4,
+            ".bss": 392,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed_opt3001/OPT3001.o",
+        "size": {
+            ".text": 414,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 14292,
+            "static_ram_delta": 0,
+            "total_flash": 103853,
+            "total_flash_delta": -9
+        }
+    }
+]
