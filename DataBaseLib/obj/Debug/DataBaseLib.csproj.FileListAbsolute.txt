@@ -1,0 +1,9 @@
+C:\Users\andrew\source\repos\DataBaseLib\bin\Debug\DataBaseLib.dll
+C:\Users\andrew\source\repos\DataBaseLib\bin\Debug\DataBaseLib.pdb
+C:\Users\andrew\source\repos\DataBaseLib\bin\Debug\System.Data.SQLite.dll
+C:\Users\andrew\source\repos\DataBaseLib\bin\Debug\System.Data.SQLite.xml
+C:\Users\andrew\source\repos\DataBaseLib\obj\Debug\DataBaseLib.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\DataBaseLib\obj\Debug\DataBaseLib.csproj.CopyComplete
+C:\Users\andrew\source\repos\DataBaseLib\obj\Debug\DataBaseLib.dll
+C:\Users\andrew\source\repos\DataBaseLib\obj\Debug\DataBaseLib.pdb
+C:\Users\andrew\source\repos\DataBaseLib\obj\Debug\DataBaseLib.csproj.AssemblyReference.cache
